@@ -1,0 +1,66 @@
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editores
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Credenciales y config sensible
+credenciales.h
+config.properties
+*.env
+.env
+.env.local
+secrets/
+
+# Firmware (Arduino / ESP32)
+firmware/build/
+firmware/*.bin
+firmware/*.elf
+firmware/*.hex
+firmware/.pio/
+firmware/.pioenvs/
+
+# App Flutter
+app/build/
+app/.dart_tool/
+app/.flutter-plugins
+app/.flutter-plugins-dependencies
+app/.packages
+app/pubspec.lock.bak
+app/android/.gradle/
+app/android/local.properties
+app/android/key.properties
+app/android/app/debug/
+app/android/app/profile/
+app/android/app/release/
+app/android/**/gradle-wrapper.jar
+app/ios/Pods/
+app/ios/.symlinks/
+app/*.iml
+
+# Backend Java (Eclipse / Maven / Tomcat)
+web/target/
+web/build/
+web/bin/
+web/.classpath
+web/.project
+web/.settings/
+web/*.war
+web/*.class
+web/WebContent/WEB-INF/lib/
+web/src/main/webapp/WEB-INF/lib/
+
+# Producción
+fabricar/log_produccion.csv
+fabricar/*.csv
+
+# Logs y temporales
+*.log
+*.tmp
+tmp/
