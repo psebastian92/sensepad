@@ -73,13 +73,15 @@ Estas alternativas se evaluaron y se descartaron. Se documentan porque son parte
 ## Hitos
 
 - **28 de septiembre de 2026**: punto de no retorno de la decisión Spring Boot. Milestone `Deadline Spring Boot`.
-- **22 al 28 de noviembre de 2026**: instancia nacional de la feria en Córdoba. Milestone `Feria Córdoba`.
+- **22 al 28 de noviembre de 2026**: instancia nacional de la feria en Córdoba. Milestone `Feria Nacional`.
 
 ## Prioridades hasta la feria
 
-**Alto.** Firmware estable y BLE confiable, auto-registro por dispositivo, sistema SOS replanteado, ubicación (última conocida y alerta de proximidad), stand, folletos y video.
+**Alto.** Firmware estable y BLE confiable, llamado automático desde el botón, auto-registro por dispositivo, sistema SOS replanteado, ubicación (última conocida y alerta de proximidad), stand, folletos y video.
 
 **Medio.** Google OAuth (condicionado a la decisión Spring Boot), permisos de WhatsApp y llamadas, publicación de la web.
+
+**A decidir al cierre.** Incorporación o no de un asistente con IA en la app.
 
 ## Cómo se trabaja en el repo
 
