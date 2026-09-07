@@ -1,6 +1,6 @@
 # Planificación
 
-Documento estratégico del proyecto SensePad rumbo a la instancia nacional de la Feria de Educación, Ciencias, Artes y Tecnología en Córdoba (22 al 28 de noviembre de 2026).
+Documento estratégico del proyecto SensePad rumbo a la instancia nacional de la Feria de Educación, Ciencias, Artes y Tecnología en Córdoba (23 al 27 de noviembre de 2026).
 
 Esta es la vista de conjunto: equipo, ejes de trabajo, decisiones cerradas y prioridades. Las tareas concretas viven en [Issues](../../issues) y su estado se sigue en el [Project](../../projects) del repositorio.
 
